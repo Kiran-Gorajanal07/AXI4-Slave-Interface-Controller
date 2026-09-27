@@ -1,0 +1,11 @@
+# vsim -c -voptargs="+acc" -uvmcontrol=all -sv_lib D:/questa_sim/uvm-1.2/win64/uvm_dpi axi_rtl -do "run -all; quit" 
+# Start time: 16:02:42 on Sep 10,2026
+# Loading C:/Users/Kiran/AppData/Local/Temp\Kiran@LAPTOP-ANAG0MIL_dpi_33816\win64_gcc-14.2.0\export_tramp.dll
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: (vopt-13130) Failed to find design unit axi_rtl.
+#         Searched libraries:
+#             work
+# Optimization failed
+# Error loading design
+# End time: 16:02:46 on Sep 10,2026, Elapsed time: 0:00:04
+# Errors: 1, Warnings: 0
